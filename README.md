@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sai-Lingesh
+- 👋 Hi, I’m Sai Lingesh
 - 🔭 I’m currently working on projects regarding Data Science and looking forward for relevent job.
 - 🌱 I’m currently learning deeply about many AI techniques about analysing data and building model.
 - 🌱 I’m currently learning Data Science
