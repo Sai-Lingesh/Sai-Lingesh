@@ -1,11 +1,11 @@
-- 👋 Hi, I’m Sai Lingesh
-- 🔭 I’m currently working on projects regarding Data Science and looking forward for relevent job.
+- 👋 Hi, I’m Sai Lingesh R
+- 🔭 I’m currently working on projects related to Data Science and looking forward for relevent job.
 - 🌱 I’m currently learning deeply about many AI techniques about analysing data and building model.
 - 💞️ I’m looking to collaborate with companies to work and learn along with data.
 - 📫 How to reach me https://www.linkedin.com/in/sai-lingesh/
 - 😄 Pronouns: He/Him
 - 👀 Enjoying the life with data.
-- ⚡ Python, SQL, NLP, ML, PowerBi, Data Analysis.
+- ⚡ Python, Data Analysis, ML, SQL, NLP, PowerBi.
 
 
 <!---
